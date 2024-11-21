@@ -1,6 +1,6 @@
 import smtplib
 import datetime as dt
-from random import randint
+from random import randint 
 
 
 today = dt.datetime.now()
